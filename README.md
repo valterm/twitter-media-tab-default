@@ -9,3 +9,5 @@ At least on web this extension makes it default to Photos.
 3. Enable developer mode
 4. Drag-and-drop the downloaded file into the page
 5. Accept the safety check
+
+Follow me @szurkegandalf if you want more random tech posts.
