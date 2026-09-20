@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Twitter Media: Photos by Default",
+  "name": "Twitter Media Tab Photos by Default",
   "version": "1.0.1",
-  "description": "Open Twitter profile Media tabs on Photos by default..",
+  "description": "Open Twitter profile Media tabs on Photos by default.",
   "minimum_chrome_version": "111",
   "content_scripts": [
     {
